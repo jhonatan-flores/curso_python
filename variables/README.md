@@ -1,8 +1,9 @@
 # variables 
 
 > es un espacio de memoria donde podemos almacenar datos
-- nombre='Jhonatan'
- 
+```python
+nombre='Jhonatan'
+```
  ->  nombre-> es el identificador del espacio de memoria que vamos a usar
  
  ->  = -> es el signo de asignacion que nos indica que vamos a almacenar
@@ -22,7 +23,7 @@
 
 **reglas para nombrar bariables**
 
-> 1. `solompueden tener los siguientes caracteres `
+> 1. `solo pueden tener los siguientes caracteres `
   
   - letras minusculas
   - letras mayusculas
